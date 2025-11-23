@@ -1,0 +1,35 @@
+# RFC 9116 Security Information
+# https://securitytxt.org/
+
+Contact: mailto:security@wayfinder.org
+Contact: https://github.com/wayfinder-project/im-docs/security/advisories/new
+Expires: 2026-11-23T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://wayfinder.org/.well-known/security.txt
+
+# Encryption: [PGP key URL to be added]
+
+Policy: https://wayfinder.org/security
+
+Acknowledgments: https://wayfinder.org/security#acknowledgments
+
+# Special Notes for Wayfinder
+
+# Source Protection Priority
+# If you're reporting something that could endanger a confidential source,
+# DO NOT use public channels. Contact emergency contacts immediately.
+
+# What We Consider Security Issues
+# - Source endangerment (highest priority)
+# - Data breaches
+# - Evidence tampering
+# - Privacy violations
+# - Platform vulnerabilities
+# - Attribution errors
+
+# Responsible Disclosure
+# We ask for 90 days to fix most issues before public disclosure.
+# We will not take legal action against good-faith security researchers.
+# We credit researchers who help us (unless you prefer anonymity).
+
+# See SECURITY.md for full policy

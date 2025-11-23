@@ -1,0 +1,136 @@
+DUAL LICENSE
+
+This project is licensed under both:
+1. MIT License (for maximum compatibility)
+2. Palimpsest License v0.8 (for values alignment)
+
+You may choose either license for your use.
+
+================================================================================
+MIT LICENSE
+================================================================================
+
+Copyright (c) 2025 Wayfinder Project Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+PALIMPSEST LICENSE v0.8
+================================================================================
+
+Copyright (c) 2025 Wayfinder Project Contributors
+
+PREAMBLE
+
+The Palimpsest License ensures that this work and its derivatives remain:
+- Transparent in methodology
+- Democratic in accessibility
+- Accountable to affected communities
+- Aligned with epistemic justice values
+
+TERMS
+
+1. PERMISSIONS
+
+You are free to:
+- Use this work for any purpose
+- Study how it works and modify it
+- Redistribute copies
+- Distribute modified versions
+
+2. CONDITIONS
+
+If you redistribute or build upon this work, you must:
+
+a) TRANSPARENCY
+   - Disclose your methodology and sources
+   - Make evidence and reasoning visible
+   - Acknowledge uncertainties and limitations
+   - Maintain version history
+
+b) ACCESSIBILITY
+   - Ensure work is accessible to diverse audiences
+   - Provide text alternatives for non-text content
+   - Use clear language or provide explanations
+   - Do not restrict access based on ability to pay
+
+c) ACCOUNTABILITY
+   - Respect privacy and dignity of affected communities
+   - Seek informed consent for personal narratives
+   - Provide mechanisms for correction and response
+   - Credit contributors appropriately
+
+d) EPISTEMIC JUSTICE
+   - Represent multiple perspectives fairly
+   - Acknowledge marginalized viewpoints
+   - Avoid false balance between evidence-based and baseless claims
+   - Make power dynamics in knowledge production visible
+
+3. ANTI-WEAPONIZATION
+
+This work may NOT be used for:
+- Deliberate disinformation or propaganda
+- Surveillance or control of populations
+- Suppression of legitimate dissent
+- Reinforcement of systemic discrimination
+
+4. ATTRIBUTION
+
+You must:
+- Credit the Wayfinder Project and original contributors
+- Link to the original work
+- Indicate if you made changes
+- Not suggest endorsement without permission
+
+5. SHARE-ALIKE
+
+If you create derivative works, you must license them under:
+- This same Palimpsest License, OR
+- A compatible license with equivalent or stronger protections
+
+6. NO WARRANTY
+
+This work is provided "as is" without warranty of any kind.
+
+7. INTERPRETATION
+
+This license should be interpreted in light of its preamble and values.
+When in doubt, choose the interpretation that best serves:
+- Truth-seeking over truthiness
+- Understanding over persuasion
+- Dialogue over domination
+- Wisdom over mere data
+
+================================================================================
+
+CHOOSING YOUR LICENSE
+
+FOR MAXIMUM COMPATIBILITY: Use the MIT License above.
+
+FOR VALUES ALIGNMENT: Use the Palimpsest License v0.8 above.
+
+Both licenses apply to the same work. You are free to choose which license
+governs your use of this project.
+
+If creating derivative works, please respect the spirit of both licenses
+even if you're only legally bound by one.
+
+================================================================================
+
+For questions about licensing, contact the project maintainers.
