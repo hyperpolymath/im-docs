@@ -1,25 +1,19 @@
-SPDX-License-Identifier: AGPL-3.0-or-later OR LicenseRef-Palimpsest-0.5
-
-This software is dual-licensed under:
-  1. GNU Affero General Public License v3.0 or later
-  2. Palimpsest License v0.5
-
-See https://spdx.org/licenses/ for license details.
-================================================================================
-
-DUAL LICENSE
-
-This project is licensed under both:
-1. MIT License (for maximum compatibility)
-2. Palimpsest License v0.8 (for values alignment)
-
-You may choose either license for your use.
+SPDX-License-Identifier: MIT OR AGPL-3.0-or-later
+SPDX-FileCopyrightText: 2024-2025 hyperpolymath
 
 ================================================================================
+DUAL LICENSE: MIT OR AGPL-3.0-or-later
+================================================================================
+
+This project is dual-licensed under the MIT License OR the GNU Affero General
+Public License v3.0 or later. You may choose to use, copy, modify, and
+distribute this work under the terms of EITHER license (your choice).
+
+--------------------------------------------------------------------------------
 MIT LICENSE
-================================================================================
+--------------------------------------------------------------------------------
 
-Copyright (c) 2025 Wayfinder Project Contributors
+Copyright (c) 2024-2025 hyperpolymath
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -39,107 +33,59 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-================================================================================
-PALIMPSEST LICENSE v0.8
-================================================================================
+--------------------------------------------------------------------------------
+GNU AFFERO GENERAL PUBLIC LICENSE v3.0 OR LATER
+--------------------------------------------------------------------------------
 
-Copyright (c) 2025 Wayfinder Project Contributors
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU Affero General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
 
-PREAMBLE
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+details.
 
-The Palimpsest License ensures that this work and its derivatives remain:
-- Transparent in methodology
-- Democratic in accessibility
-- Accountable to affected communities
-- Aligned with epistemic justice values
+You should have received a copy of the GNU Affero General Public License along
+with this program. If not, see <https://www.gnu.org/licenses/>.
 
-TERMS
+The full text of the AGPL-3.0 is available at:
+  https://www.gnu.org/licenses/agpl-3.0.txt
 
-1. PERMISSIONS
-
-You are free to:
-- Use this work for any purpose
-- Study how it works and modify it
-- Redistribute copies
-- Distribute modified versions
-
-2. CONDITIONS
-
-If you redistribute or build upon this work, you must:
-
-a) TRANSPARENCY
-   - Disclose your methodology and sources
-   - Make evidence and reasoning visible
-   - Acknowledge uncertainties and limitations
-   - Maintain version history
-
-b) ACCESSIBILITY
-   - Ensure work is accessible to diverse audiences
-   - Provide text alternatives for non-text content
-   - Use clear language or provide explanations
-   - Do not restrict access based on ability to pay
-
-c) ACCOUNTABILITY
-   - Respect privacy and dignity of affected communities
-   - Seek informed consent for personal narratives
-   - Provide mechanisms for correction and response
-   - Credit contributors appropriately
-
-d) EPISTEMIC JUSTICE
-   - Represent multiple perspectives fairly
-   - Acknowledge marginalized viewpoints
-   - Avoid false balance between evidence-based and baseless claims
-   - Make power dynamics in knowledge production visible
-
-3. ANTI-WEAPONIZATION
-
-This work may NOT be used for:
-- Deliberate disinformation or propaganda
-- Surveillance or control of populations
-- Suppression of legitimate dissent
-- Reinforcement of systemic discrimination
-
-4. ATTRIBUTION
-
-You must:
-- Credit the Wayfinder Project and original contributors
-- Link to the original work
-- Indicate if you made changes
-- Not suggest endorsement without permission
-
-5. SHARE-ALIKE
-
-If you create derivative works, you must license them under:
-- This same Palimpsest License, OR
-- A compatible license with equivalent or stronger protections
-
-6. NO WARRANTY
-
-This work is provided "as is" without warranty of any kind.
-
-7. INTERPRETATION
-
-This license should be interpreted in light of its preamble and values.
-When in doubt, choose the interpretation that best serves:
-- Truth-seeking over truthiness
-- Understanding over persuasion
-- Dialogue over domination
-- Wisdom over mere data
-
-================================================================================
-
+--------------------------------------------------------------------------------
 CHOOSING YOUR LICENSE
+--------------------------------------------------------------------------------
 
-FOR MAXIMUM COMPATIBILITY: Use the MIT License above.
+You may choose to use this work under:
+  1. MIT License - Standard permissive open source license
+  2. AGPL-3.0-or-later - Copyleft license requiring source disclosure for
+     network services
 
-FOR VALUES ALIGNMENT: Use the Palimpsest License v0.8 above.
-
-Both licenses apply to the same work. You are free to choose which license
-governs your use of this project.
-
-If creating derivative works, please respect the spirit of both licenses
-even if you're only legally bound by one.
+For most uses, MIT License provides maximum flexibility.
+For ensuring open source remains open (especially for SaaS/network services),
+AGPL-3.0-or-later provides stronger protections.
 
 ================================================================================
+PALIMPSEST PHILOSOPHICAL OVERLAY (NON-BINDING)
+================================================================================
 
-For questions about licensing, contact the project maintainers.
+This project encourages (but does not legally require) adherence to the
+principles of the Palimpsest License - a framework for consent-based digital
+interaction and the future web.
+
+Core Principles (Encouraged):
+  - Respect for emotional and creative lineage
+  - Transparent AI training practices with explicit consent
+  - Preservation of metadata and attribution
+  - Protection of narrative intent and cultural context
+
+The Palimpsest principles represent our vision for a consent-based internet.
+While not legally binding for use of this software, we encourage all users
+and contributors to familiarize themselves with these principles.
+
+Learn more: https://github.com/hyperpolymath/palimpsest-license
+
+================================================================================
+END OF LICENSE
+================================================================================
