@@ -1,34 +1,34 @@
-= im-docs - Citation Guide
+= Wayfinder - Citation Guide
 :toc:
 
 == BibTeX
 
 [source,bibtex]
 ----
-@software{im-docs_2025,
-  author = {Polymath, Hyper},
-  title = {im-docs},
+@software{wayfinder_2025,
+  author = {Jewell, Jonathan D.A.},
+  title = {Wayfinder: Epistemic Infrastructure for Journalism},
   year = {2025},
   url = {https://github.com/hyperpolymath/im-docs},
-  license = {AGPL-3.0-or-later}
+  license = {PMPL-1.0-or-later}
 }
 ----
 
 == Harvard Style
 
-Polymath, H. (2025) _im-docs_ [Computer software]. Available at: https://github.com/hyperpolymath/im-docs
+Jewell, J.D.A. (2025) _Wayfinder: Epistemic Infrastructure for Journalism_ [Computer software]. Available at: https://github.com/hyperpolymath/im-docs
 
 == OSCOLA
 
-Hyper Polymath, 'im-docs' (2025) <https://github.com/hyperpolymath/im-docs>
+Jonathan D.A. Jewell, 'Wayfinder: Epistemic Infrastructure for Journalism' (2025) <https://github.com/hyperpolymath/im-docs>
 
 == MLA
 
-Polymath, Hyper. "im-docs." 2025, github.com/hyperpolymath/im-docs.
+Jewell, Jonathan D.A. "Wayfinder: Epistemic Infrastructure for Journalism." 2025, github.com/hyperpolymath/im-docs.
 
 == APA 7
 
-Polymath, H. (2025). _im-docs_ [Computer software]. GitHub. https://github.com/hyperpolymath/im-docs
+Jewell, J.D.A. (2025). _Wayfinder: Epistemic Infrastructure for Journalism_ [Computer software]. GitHub. https://github.com/hyperpolymath/im-docs
 
 == See Also
 
