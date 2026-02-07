@@ -52,7 +52,7 @@ rsr-check:
     @[ -d .machine_readable ] || (echo "❌ Missing .machine_readable/" && exit 1)
     @[ -d .bot_directives ] || (echo "❌ Missing .bot_directives/" && exit 1)
     @[ -f 0-AI-MANIFEST.a2ml ] || (echo "❌ Missing AI manifest" && exit 1)
-    @[ $$(find .github/workflows -name "*.yml" | wc -l) -eq 17 ] || (echo "❌ Wrong workflow count" && exit 1)
+    @[ $(find .github/workflows -name "*.yml" | wc -l) -eq 17 ] || (echo "❌ Wrong workflow count" && exit 1)
     @echo "✅ RSR compliant"
 
 # Verify Hypatia and gitbot-fleet integration
