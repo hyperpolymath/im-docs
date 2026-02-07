@@ -1,0 +1,181 @@
+// SPDX-License-Identifier: PMPL-1.0-or-later
+= PROMPT Evidence Evaluation Worksheet
+:toc:
+
+**Claim Being Evaluated:** _[Write your specific claim here]_
+
+**Your Name:** _[Your name]_
+
+**Date:** _[Today's date]_
+
+---
+
+== Evidence Piece #1
+
+**Source:** _[Author, publication, date]_
+
+**URL/Citation:** _[Full citation]_
+
+**Type:** _[Primary research / Expert analysis / Statistical data / News report / Other]_
+
+=== PROMPT Scores
+
+[cols="1,1,3"]
+|===
+|Dimension |Score (0-1) |Reasoning
+
+|**P**rovenance
+|_[0.0-1.0]_
+a|
+* Who is the author/organization?
+* What is their track record?
+* Any conflicts of interest?
+* Credentials relevant to claim?
+
+|**R**elevance
+|_[0.0-1.0]_
+a|
+* Does this directly address the claim?
+* Or is it tangentially related?
+* What exactly does it tell us?
+
+|**O**bjectivity
+|_[0.0-1.0]_
+a|
+* What biases might exist?
+* Are they disclosed?
+* Funding sources transparent?
+* Ideological leanings acknowledged?
+
+|**M**ethods
+|_[0.0-1.0]_
+a|
+* How was evidence gathered?
+* Sample size adequate?
+* Peer-reviewed?
+* Replicable?
+* Methodology sound?
+
+|**P**erspective
+|_[0.0-1.0]_
+a|
+* Whose voices are included?
+* Who is missing?
+* Affected communities consulted?
+* Dissenting views represented?
+
+|**T**imeliness
+|_[0.0-1.0]_
+a|
+* When was this published?
+* Is there more recent evidence?
+* Has this been superseded?
+* Ongoing developments?
+|===
+
+**Overall Assessment:** _[Brief summary of this evidence's reliability and what it contributes]_
+
+---
+
+== Evidence Piece #2
+
+**Source:** _[Author, publication, date]_
+
+**URL/Citation:** _[Full citation]_
+
+**Type:** _[Primary research / Expert analysis / Statistical data / News report / Other]_
+
+=== PROMPT Scores
+
+[cols="1,1,3"]
+|===
+|Dimension |Score (0-1) |Reasoning
+
+|**P**rovenance
+|_[0.0-1.0]_
+|_[Your reasoning]_
+
+|**R**elevance
+|_[0.0-1.0]_
+|_[Your reasoning]_
+
+|**O**bjectivity
+|_[0.0-1.0]_
+|_[Your reasoning]_
+
+|**M**ethods
+|_[0.0-1.0]_
+|_[Your reasoning]_
+
+|**P**erspective
+|_[0.0-1.0]_
+|_[Your reasoning]_
+
+|**T**imeliness
+|_[0.0-1.0]_
+|_[Your reasoning]_
+|===
+
+**Overall Assessment:** _[Brief summary]_
+
+---
+
+== Evidence Piece #3
+
+_[Continue pattern for each evidence piece...]_
+
+---
+
+== Summary Analysis
+
+=== Convergent Evidence (Agreement)
+
+_[Where do multiple high-quality sources agree? What can we say with confidence?]_
+
+=== Divergent Evidence (Disagreement)
+
+_[Where do sources contradict? What explains the disagreement?]_
+
+=== Evidence Gaps
+
+_[What's missing? What questions remain unanswered?]_
+
+=== Confidence Assessment
+
+**Overall Confidence Level:** _[Low / Medium / High]_
+
+**Reasoning:** _[Based on PROMPT scores, convergence/divergence, and gaps, what's your epistemic status on this claim?]_
+
+---
+
+== Reflection
+
+**What surprised you during this analysis?**
+
+_[Your reflections]_
+
+**What would change your mind about this claim?**
+
+_[Specific evidence that would increase or decrease confidence]_
+
+**What did you learn about evidence evaluation?**
+
+_[Meta-cognitive insights]_
+
+---
+
+== Next Steps
+
+**For Your Reporting:**
+- How will you present this evidence ecosystem in your story?
+- What caveats need to be included?
+- What follow-up investigation is needed?
+
+**For Your Learning:**
+- Ready to move to Level 2A (Process Documentarian)?
+- Or Level 2B (Uncertainty Communicator)?
+- Or do you want to map another claim first?
+
+---
+
+*Remember: The goal isn't to find THE truth, but to map the evidence ecosystem transparently. Uncertainty is not weakness - it's epistemic honesty.*
