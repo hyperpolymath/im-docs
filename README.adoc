@@ -170,3 +170,8 @@ See [LICENSE.txt](./LICENSE.txt) for full details.
 *Status*: Pre-release conceptual design
 
 *For AI assistants: See [claude.md](./claude.md) for full context and implementation details.*
+
+
+== Architecture
+
+See link:TOPOLOGY.md[TOPOLOGY.md] for a visual architecture map and completion dashboard.
