@@ -65,3 +65,8 @@ verify-scanning:
 # Full validation (all checks)
 validate: test rsr-check verify-scanning
     @echo "🎉 Full validation complete!"
+
+# [AUTO-GENERATED] Multi-arch / RISC-V target
+build-riscv:
+	@echo "Building for RISC-V..."
+	cross build --target riscv64gc-unknown-linux-gnu
