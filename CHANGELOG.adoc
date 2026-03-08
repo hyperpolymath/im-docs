@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
+// SPDX-License-Identifier: PMPL-1.0-or-later
 = Changelog
 
 All notable changes to the Wayfinder project will be documented in this file.
@@ -17,10 +17,140 @@ We maintain this changelog with the same values as the project:
 == [Unreleased]
 
 === Planned
-- Level 1 materials (evidence mapping templates, PROMPT worksheets)
 - First example investigation (to be determined based on beta tester feedback)
 - Simple website (GitLab Pages or similar)
 - Beta tester recruitment (5-10 journalists)
+- Level 2A materials (Process Documentarian)
+- Level 2B materials (Uncertainty Communicator)
+
+== [0.2.0-alpha] - 2026-02-07
+
+=== Added - Infrastructure & Week 1 Materials
+
+==== Test Infrastructure
+- **Validation test suite**: Framework, documentation, and installation tests
+- **validate-framework.sh**: Verifies PROMPT framework, boundary objects, learning pathway integrity
+- **validate-documentation.sh**: Checks author attribution, licenses, SPDX headers, consistency
+- **validate-installation.sh**: Validates workflows, directory structure, scanning integrations
+- **run-all-tests.sh**: Master test runner for full validation
+- **Justfile commands**: `test`, `rsr-check`, `verify-scanning`, `validate`
+
+==== Bot Directives (`.bot_directives/`)
+- **8 bot configurations** for gitbot-fleet integration:
+  - **rhodibot**: RSR compliance and repository operations
+  - **echidnabot**: Framework consistency verification (PROMPT, boundary objects)
+  - **glambot**: Documentation quality and WCAG 2.1 AA accessibility
+  - **sustainabot**: Community health and sustainability monitoring
+  - **seambot**: Integration and tooling (Hypatia, gitbot-fleet)
+  - **finishbot**: Milestone tracking and STATE.scm updates
+  - **robot-repo-automaton**: Automated fixes with confidence thresholds
+- **Protection for core frameworks**: All bots configured to preserve PROMPT and heutagogic design
+
+==== Level 1 Learning Materials (`materials/level-1/`)
+- **README.adoc**: Complete Evidence Mapper learning pathway
+  - 5-step process (4-8 hours total)
+  - PROMPT framework detailed explanation
+  - Claim selection criteria (good vs. bad examples)
+  - Common mistakes and fixes
+  - Completion checklist
+  - Pathways to Level 2A/2B
+- **PROMPT-Worksheet.adoc**: Evidence evaluation template
+  - Structured scoring for 6 dimensions (Provenance, Relevance, Objectivity, Methods, Perspective, Timeliness)
+  - Space for multiple evidence pieces
+  - Convergence/divergence analysis
+  - Meta-cognitive reflection prompts
+  - Epistemic honesty emphasis
+- **Evidence-Map-Template.adoc**: Ecosystem mapping guide
+  - Visual and textual mapping options
+  - Evidence quality matrix
+  - Gap identification
+  - Multi-stakeholder navigation guide (activists, policymakers, skeptics, academics, affected communities)
+  - Synthesis sections (known/uncertain/unknown)
+
+==== RSR Compliance Improvements
+- **Complete `.machine_readable/` structure**: All 6 SCM files (STATE, META, ECOSYSTEM, AGENTIC, NEUROSYM, PLAYBOOK)
+- **Full workflow suite**: 17 workflows (added instant-sync, npm-bun-blocker, ts-blocker, jekyll)
+- **License corrections**: Updated all SPDX headers to PMPL-1.0-or-later
+- **Duplicate cleanup**: Removed .md duplicates (kept .adoc), removed capitalized Justfile
+
+==== Documentation Updates
+- **CITATIONS.adoc**: Corrected author and license (Jonathan D.A. Jewell, PMPL-1.0-or-later)
+- **ROADMAP.adoc**: Updated with actual Wayfinder milestones and 4-week plan
+- **STATE.scm**: Project status updated (15% → 30% completion)
+
+=== Changed - Integration Verification
+
+==== Hypatia & gitbot-fleet
+- **Verified Hypatia scan**: Active on push, PR, weekly schedule
+- **Confirmed gitbot-fleet integration**: Automatic finding submission
+- **Bot directives active**: All 8 bots configured and ready
+- **Neurosymbolic CI/CD**: Intelligence layer operational
+
+=== Technical Decisions
+
+==== Why Test Infrastructure First?
+- **Rationale**: Documentation projects need validation too
+- **Framework integrity**: PROMPT dimensions must remain consistent
+- **Formalism checks**: Ensure conceptual coherence
+- **Regression prevention**: Changes don't break core frameworks
+
+==== Why Bot Directives Now?
+- **Rationale**: Protect conceptual frameworks from automated changes
+- **Learning**: robot-repo-automaton must understand PROMPT is sacred
+- **Sustainability**: finishbot tracks milestones, sustainabot monitors health
+- **Integration**: seambot ensures Hypatia and gitbot-fleet stay connected
+
+==== Why Level 1 First?
+- **Rationale**: Heutagogic pathway requires self-directed entry point
+- **Professional output**: Beta testers need immediate value (4-8 hours)
+- **Foundation building**: Level 2A/2B depend on PROMPT framework mastery
+- **Test case**: Real journalists will validate design assumptions
+
+=== Status
+
+**Current Phase**: Proof-of-concept (Week 1 in progress)
+
+**Completion**: 30% overall
+- ✅ Conceptual frameworks complete
+- ✅ Test infrastructure complete
+- ✅ Bot directives complete
+- ✅ Hypatia/gitbot-fleet verified
+- ✅ Level 1 materials complete
+
+**Week 1 Remaining**:
+- Create first example investigation
+- Share with 3 journalist friends
+- Begin beta tester recruitment
+
+**Next Milestones**:
+- Week 2: Feedback from initial testers
+- Week 3: GitLab Pages website
+- Week 4: First 5-10 participants start Level 1
+
+=== Lessons Learned
+
+==== What Worked
+- **Test-driven documentation**: Validation tests caught outdated licenses, inconsistent attribution
+- **Bot directives early**: Protecting frameworks before automation starts prevents future fixes
+- **Heutagogic design**: Level 1 materials produce professional output (not just learning badges)
+- **Boundary objects**: Evidence map template serves multiple stakeholder needs
+
+==== What We're Watching
+- **Beta tester recruitment**: Will demoralized journalists engage?
+- **Level 1 time estimate**: Is 4-8 hours realistic or optimistic?
+- **PROMPT scoring**: Will journalists find 0-1 scale intuitive?
+- **Evidence mapping**: Hand-drawn vs. tool-based (Obsidian/TiddlyWiki/Notion)?
+
+=== Contributors
+
+- Project development: Jonathan D.A. Jewell
+- AI assistance: Claude Sonnet 4.5
+
+=== Thank You
+
+To the test infrastructure that caught bugs, the bot directives that will protect frameworks, and the journalists who will test Level 1 materials.
+
+---
 
 == [0.1.0-alpha] - 2025-11-23
 

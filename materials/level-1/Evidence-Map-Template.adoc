@@ -1,0 +1,203 @@
+// SPDX-License-Identifier: PMPL-1.0-or-later
+= Evidence Map Template
+:toc:
+
+**Claim:** _[Your specific claim]_
+
+**Mapper:** _[Your name]_
+
+**Date:** _[Today's date]_
+
+---
+
+== Visual Map
+
+_[You can draw this by hand, use tools like Obsidian, TiddlyWiki, or just describe it textually below]_
+
+=== Textual Representation
+
+[source,text]
+----
+CLAIM: [Your claim here]
+    ├── Evidence 1 (Score: 0.X) [Supports/Contradicts]
+    │   └── Connected to: Evidence 3
+    ├── Evidence 2 (Score: 0.X) [Supports/Contradicts]
+    │   └── Contradicts: Evidence 4
+    ├── Evidence 3 (Score: 0.X) [Supports/Contradicts]
+    │   ├── Connected to: Evidence 1
+    │   └── Connected to: Evidence 5
+    ├── Evidence 4 (Score: 0.X) [Supports/Contradicts]
+    │   └── Contradicts: Evidence 2
+    └── Evidence 5 (Score: 0.X) [Supports/Contradicts]
+        └── Connected to: Evidence 3
+----
+
+---
+
+== Evidence Relationships
+
+=== Convergence (Agreement)
+
+**Cluster 1: _[Theme/Aspect]_**
+- Evidence: _[List evidence pieces that agree]_
+- What they say: _[Common finding]_
+- Combined PROMPT score: _[Average or range]_
+- Confidence: _[How confident can we be in this convergence?]_
+
+**Cluster 2: _[Theme/Aspect]_**
+- Evidence: _[List evidence pieces]_
+- What they say: _[Common finding]_
+- Combined PROMPT score: _[Average or range]_
+- Confidence: _[Assessment]_
+
+=== Divergence (Disagreement)
+
+**Contradiction 1: _[Specific point of disagreement]_**
+- Evidence A says: _[Position A]_
+- Evidence B says: _[Position B]_
+- Possible reasons for divergence:
+  * _[Different methodologies?]_
+  * _[Different time periods?]_
+  * _[Different populations studied?]_
+  * _[Conflicting interests?]_
+- Which is more reliable? _[Based on PROMPT scores]_
+
+**Contradiction 2: _[Specific point of disagreement]_**
+- Evidence C says: _[Position C]_
+- Evidence D says: _[Position D]_
+- Possible reasons: _[Analysis]_
+
+=== Gaps in Evidence
+
+**Missing Perspective 1:** _[What viewpoint is absent?]_
+- Why it matters: _[Importance]_
+- How to fill: _[Potential sources]_
+
+**Missing Perspective 2:** _[What aspect is unexplored?]_
+- Why it matters: _[Importance]_
+- How to fill: _[Potential sources]_
+
+**Methodological Gaps:**
+- What kind of research hasn't been done yet?
+- What would be needed to strengthen confidence?
+
+---
+
+== Evidence Quality Matrix
+
+[cols="2,1,1,1,1"]
+|===
+|Evidence |PROMPT Avg |Supports Claim |Contradicts Claim |Notes
+
+|Evidence 1
+|_[0.0-1.0]_
+|_[Yes/No/Partial]_
+|_[Yes/No/Partial]_
+|_[Key point]_
+
+|Evidence 2
+|_[0.0-1.0]_
+|_[Yes/No/Partial]_
+|_[Yes/No/Partial]_
+|_[Key point]_
+
+|Evidence 3
+|_[0.0-1.0]_
+|_[Yes/No/Partial]_
+|_[Yes/No/Partial]_
+|_[Key point]_
+
+|Evidence 4
+|_[0.0-1.0]_
+|_[Yes/No/Partial]_
+|_[Yes/No/Partial]_
+|_[Key point]_
+
+|Evidence 5
+|_[0.0-1.0]_
+|_[Yes/No/Partial]_
+|_[Yes/No/Partial]_
+|_[Key point]_
+|===
+
+---
+
+== Synthesis
+
+=== What We Know (High Confidence)
+
+_[Evidence with high PROMPT scores that converges]_
+
+**Claims we can make confidently:**
+1. _[Specific finding]_
+2. _[Specific finding]_
+3. _[Specific finding]_
+
+=== What's Uncertain (Low-Medium Confidence)
+
+_[Areas where evidence is weak, contradictory, or missing]_
+
+**Claims that need caveats:**
+1. _[Tentative finding with caveat]_
+2. _[Tentative finding with caveat]_
+
+=== What We Don't Know (Gaps)
+
+**Unanswered questions:**
+1. _[Question]_
+2. _[Question]_
+3. _[Question]_
+
+**What would help answer them:**
+- _[Type of research/evidence needed]_
+
+---
+
+== Epistemic Navigation Guide
+
+If you're reading this as a journalist, policymaker, activist, or citizen, here's how to navigate this evidence ecosystem:
+
+=== For Activists
+**Action-relevant findings:**
+- _[What does the evidence support for action?]_
+- _[What caveats matter for strategy?]_
+
+=== For Policymakers
+**Decision-relevant findings:**
+- _[What trade-offs does evidence reveal?]_
+- _[What unknowns affect policy choices?]_
+
+=== For Skeptics
+**Challenge points:**
+- _[Where is evidence weakest?]_
+- _[What would falsify the claim?]_
+
+=== For Academics
+**Research gaps:**
+- _[What studies are needed?]_
+- _[What methodological improvements would help?]_
+
+=== For Affected Communities
+**Relevance to lived experience:**
+- _[Does evidence reflect your reality?]_
+- _[What perspectives are missing?]_
+
+---
+
+== Meta-Reflection
+
+**How did mapping change your understanding?**
+
+_[Before mapping, you thought... After mapping, you realize...]_
+
+**What did you learn about evidence ecosystems?**
+
+_[Insights about how evidence works in the real world]_
+
+**What would you do differently next time?**
+
+_[Learning from this experience]_
+
+---
+
+*This map is a boundary object - different communities can use it for their needs while working with the same evidence. That's coordination without consensus.*

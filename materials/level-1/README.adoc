@@ -1,0 +1,203 @@
+// SPDX-License-Identifier: PMPL-1.0-or-later
+= Level 1: Evidence Mapper
+:toc:
+:toclevels: 3
+
+**Capability:** Skeptical Journalist → Evidence Mapper
+
+**Time Investment:** 4-8 hours
+
+**Deliverable:** One claim mapped with PROMPT-evaluated evidence
+
+== Overview
+
+Welcome to Level 1 of the Wayfinder learning pathway. This level transforms you from a skeptical journalist into an evidence mapper who can systematically evaluate claims using the PROMPT framework.
+
+**What You'll Learn:**
+- Apply the PROMPT framework to a single claim
+- Map evidence ecosystems systematically
+- Score evidence across six dimensions
+- Make epistemic reasoning transparent
+
+**What You'll Produce:**
+- One fully mapped claim with evaluated evidence
+- Professional output you can use in your work immediately
+- Foundation for advanced Wayfinder capabilities
+
+== The PROMPT Framework
+
+Every piece of evidence is evaluated across six dimensions:
+
+[cols="1,3,2"]
+|===
+|Dimension |Question |What to Check
+
+|**P**rovenance
+|Who said it? What's their track record?
+|Author credentials, previous accuracy, conflicts of interest
+
+|**R**elevance
+|Does this actually address the claim?
+|Logical connection, directly vs. tangentially related
+
+|**O**bjectivity
+|What biases exist? Are they disclosed?
+|Funding sources, ideological positions, transparency
+
+|**M**ethods
+|How was evidence gathered? Is it sound?
+|Sample size, methodology, peer review, replicability
+
+|**P**erspective
+|What viewpoints are represented? What's missing?
+|Diverse voices, affected communities, dissenting views
+
+|**T**imeliness
+|Is this current? Has it been superseded?
+|Publication date, more recent evidence, ongoing developments
+|===
+
+== Learning Pathway
+
+=== Step 1: Choose Your Claim (30 minutes)
+
+Pick one claim from your current reporting. Good starter claims:
+
+**✓ Good:**
+- "Electric vehicles reduce carbon emissions by 40%"
+- "Remote work increases productivity"
+- "Vaccine X is 95% effective against disease Y"
+
+**✗ Too Broad:**
+- "Climate change is real"
+- "Technology affects society"
+- "Healthcare needs reform"
+
+**Criteria:**
+- Specific and testable
+- Relevant to your beat
+- Has multiple evidence sources
+- You're genuinely uncertain about
+
+=== Step 2: Gather Evidence (1-2 hours)
+
+Find 5-10 pieces of evidence for your claim. Include:
+
+- **Primary sources** (original research, official documents)
+- **Expert analysis** (credentials matter!)
+- **Statistical data** (with methodology)
+- **Contradictory evidence** (this is CRITICAL)
+
+**Resources:**
+- Academic databases (JSTOR, PubMed)
+- Government reports
+- Think tank studies
+- Investigative journalism
+- Expert interviews
+
+=== Step 3: Apply PROMPT Framework (2-3 hours)
+
+For each piece of evidence, score all six PROMPT dimensions.
+
+**Scoring Scale:**
+- **0.0-0.3:** Low quality (serious issues)
+- **0.4-0.6:** Medium quality (some concerns)
+- **0.7-0.9:** High quality (reliable)
+- **1.0:** Gold standard (rare!)
+
+Use the `PROMPT-Worksheet.adoc` template to document your analysis.
+
+=== Step 4: Map the Evidence Ecosystem (1-2 hours)
+
+Create a visual or textual map showing:
+
+- How evidence pieces relate
+- Where they converge (agreement)
+- Where they diverge (disagreement)
+- What's missing (gaps)
+
+Use the `Evidence-Map-Template.adoc` to structure your map.
+
+=== Step 5: Write Your Transparent Summary (1 hour)
+
+Summarize what you learned:
+
+1. **What we know:** Evidence with high PROMPT scores
+2. **What's uncertain:** Areas of disagreement or low scores
+3. **What's missing:** Gaps in evidence
+4. **Confidence level:** Overall epistemic status
+
+**Key Principle:** Show your reasoning, don't hide it.
+
+== Deliverables
+
+=== Required
+
+1. **PROMPT Worksheet:** All evidence scored
+2. **Evidence Map:** Visual or textual representation
+3. **Transparent Summary:** 300-500 words
+
+=== Optional
+
+1. **Share with 1-2 peers** for feedback
+2. **Publish as blog post** (transparency builds trust)
+3. **Use in current story** (immediate professional value)
+
+== Common Mistakes
+
+**Mistake 1: Cherry-picking evidence**
+- **Problem:** Only including evidence that supports your prior belief
+- **Fix:** Actively seek contradictory evidence, score it fairly
+
+**Mistake 2: Confusing Relevance with Quality**
+- **Problem:** High-quality evidence that doesn't address the claim
+- **Fix:** Relevance is a separate dimension - be honest
+
+**Mistake 3: Ignoring Timeliness**
+- **Problem:** Using outdated evidence without acknowledging it
+- **Fix:** Check for more recent research that might supersede
+
+**Mistake 4: False Precision**
+- **Problem:** Scoring 0.87 when you mean "pretty good"
+- **Fix:** Use ranges (0.7-0.9) if uncertain
+
+== Completion Checklist
+
+Before moving to Level 2, verify:
+
+- ☐ Claim is specific and testable
+- ☐ 5-10 evidence pieces gathered
+- ☐ All evidence scored across all 6 PROMPT dimensions
+- ☐ Contradictory evidence included and fairly evaluated
+- ☐ Evidence map shows relationships and gaps
+- ☐ Transparent summary explains reasoning
+- ☐ Deliverables are professionally usable
+
+== Next Steps
+
+**Level 2A: Process Documentarian** (8-12 hours)
+- Document your methodology transparently
+- Show sources contacted (responded, declined, unreachable)
+- Expose editorial reasoning chains
+
+**Level 2B: Uncertainty Communicator** (6-10 hours)
+- Replace false certainty with honest uncertainty
+- Use Dempster-Shafer intervals
+- Communicate confidence levels effectively
+
+**Choose based on your interests:**
+- Methodologically-minded? → Level 2A
+- Data/statistics-focused? → Level 2B
+- Want both? Do either first, then the other
+
+== Support
+
+**Questions?** See `docs/FAQ.adoc`
+
+**Stuck?** Join the beta tester community (link TBD)
+
+**Feedback?** Email feedback@wayfinder.example (placeholder)
+
+---
+
+*Remember: You're not looking for "THE truth" - you're mapping the evidence ecosystem so others can navigate it. That's the Wayfinder way.*

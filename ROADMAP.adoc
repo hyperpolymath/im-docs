@@ -1,22 +1,149 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
-= Im Docs Roadmap
+// SPDX-License-Identifier: PMPL-1.0-or-later
+= Wayfinder Roadmap
 
 == Current Status
 
-Initial development phase.
+**Phase:** Proof-of-Concept Development
 
-== Milestones
+**Version:** 0.1.0-alpha (Released 2025-11-23)
 
-=== v0.1.0 - Foundation
-* [ ] Core functionality
-* [ ] Basic documentation
-* [ ] CI/CD pipeline
+**Completed:**
+* ✅ Conceptual framework (PROMPT, boundary objects, heutagogic design)
+* ✅ Four-level capability pathway design
+* ✅ Cognitive science integration
+* ✅ SWOT analysis
+* ✅ Technical architecture planning
+* ✅ Comprehensive documentation (README, claude.md, CHANGELOG)
 
-=== v1.0.0 - Stable Release
-* [ ] Full feature set
-* [ ] Comprehensive tests
-* [ ] Production ready
+**In Progress:**
+* 🔄 Level 1 materials development
+* 🔄 Evidence mapping templates
+* 🔄 First example investigation
 
-== Future Directions
+== Immediate Milestones (Weeks 1-4)
 
-_To be determined based on community feedback._
+=== Week 1: Materials & Templates
+* [ ] Document Level 1 pathway in detail
+* [ ] Create evidence mapping template
+* [ ] Build PROMPT framework worksheets
+* [ ] Complete one example investigation
+
+=== Week 2: Initial Feedback
+* [ ] Share with 3 journalist friends
+* [ ] Collect feedback on Level 1 materials
+* [ ] Iterate based on real-world use
+
+=== Week 3: Public Launch
+* [ ] Build simple website (GitLab Pages)
+* [ ] Publish documentation
+* [ ] Open for beta tester applications
+
+=== Week 4: Beta Testing Begins
+* [ ] Onboard first 5-10 participants
+* [ ] Support Level 1 completion
+* [ ] Track learnings and issues
+
+== Phase 1: Prototype (Months 1-3)
+
+=== Platform (Q1 2026)
+* [ ] Choose prototyping tool (Obsidian/TiddlyWiki/Notion)
+* [ ] Build Level 1 interactive templates
+* [ ] Create 2-3 example investigations
+* [ ] Test with 10-20 journalists
+
+=== Learning Materials
+* [ ] Complete Level 1 materials
+* [ ] Draft Level 2A materials
+* [ ] Draft Level 2B materials
+* [ ] Create facilitator guides
+
+=== Community
+* [ ] Recruit academic partners (journalism schools)
+* [ ] Connect with i-Docs practitioners
+* [ ] Engage National Union of Journalists (NUJ)
+* [ ] Apply for funding (Knight Foundation, Omidyar Network)
+
+== Phase 2: Custom Platform (Months 3-9)
+
+=== Technical Architecture
+* [ ] SvelteKit + PostgreSQL + Graph Database
+* [ ] PROMPT scoring system
+* [ ] Evidence linking and annotation
+* [ ] Multi-perspectival navigation
+* [ ] Collaborative features
+
+=== Features
+* [ ] Progressive disclosure UI
+* [ ] Meta-cognitive prompts
+* [ ] Navigation analytics
+* [ ] Transparent methodology layer
+* [ ] Mobile-first responsive design
+
+=== Level 3 Launch
+* [ ] Knowledge Architect materials
+* [ ] Full investigation builder
+* [ ] First 5 interactive investigations produced
+* [ ] Academic research integration
+
+== Phase 3: Ecosystem (Months 9-18)
+
+=== Infrastructure
+* [ ] Level 4 materials (Infrastructure Builder)
+* [ ] Tool development frameworks
+* [ ] Teaching materials for trainers
+* [ ] Community governance model
+
+=== Scale
+* [ ] 100+ journalists trained (Levels 1-3)
+* [ ] 10+ interactive investigations published
+* [ ] 3+ academic papers on methodology
+* [ ] Partnership with major news organizations
+
+=== Research
+* [ ] Measure impact on comprehension
+* [ ] Measure impact on trust calibration
+* [ ] Measure impact on behavior change
+* [ ] Refine based on empirical evidence
+
+== Long-Term Vision (18+ months)
+
+=== Sustainability
+* [ ] Business model established
+* [ ] Grant funding secured
+* [ ] Self-sustaining community
+* [ ] Open source contributor ecosystem
+
+=== Integration
+* [ ] Curriculum adoption (journalism schools)
+* [ ] Industry standard for investigative journalism
+* [ ] Integration with existing CMS platforms
+* [ ] API for third-party tools
+
+=== Impact
+* [ ] Measurable improvement in epistemic navigation
+* [ ] Reduced polarization in controversial topics
+* [ ] Restored trust in journalism process
+* [ ] Model for other knowledge domains
+
+== Open Questions
+
+**Technical:**
+* Which story for first full prototype?
+* Obsidian vs. TiddlyWiki vs. Notion for Phase 1?
+* How to balance flexibility vs. cognitive load?
+
+**Community:**
+* How to recruit demoralized journalists effectively?
+* What incentives work for beta testers?
+* How to measure "success" meaningfully?
+
+**Business:**
+* What's the sustainable revenue model?
+* How to avoid capture by existing power structures?
+* Can this scale without losing epistemic integrity?
+
+== See Also
+
+* link:../CHANGELOG.adoc[CHANGELOG] - Detailed development history
+* link:../README.adoc[README] - Project overview
+* link:../claude.md[claude.md] - Comprehensive technical documentation
