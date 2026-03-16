@@ -1,0 +1,26 @@
+# SPDX-License-Identifier: PMPL-1.0-or-later
+# Clade declaration — part of the gv-clade-index registry
+# See: https://github.com/hyperpolymath/gv-clade-index
+
+[identity]
+uuid = "e2a80628-f1d7-5e30-9e6d-9c0e0c004e9f"
+primary-forge = "github"
+primary-owner = "hyperpolymath"
+canonical-name = "im-docs"
+prefixed-name = "dx-im-docs"
+
+[clade]
+primary = "dx"
+secondary = []
+assigned = "2026-03-16"
+rationale = ""
+
+[forges]
+github = "hyperpolymath/im-docs"
+gitlab = "hyperpolymath/im-docs"
+bitbucket = "hyperpolymath/im-docs"
+
+[lineage]
+type = "standalone"
+parent = "Instant messaging documentation"
+born = "2026-03-16"
