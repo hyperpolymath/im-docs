@@ -5,6 +5,14 @@ name: CodeQL Security Analysis
 on:
   workflow_dispatch:  # Manual trigger only
 
+# Estate guardrail: cancel superseded runs so re-pushes / rebased PR
+# updates do not pile up queued runs against the shared account-wide
+# Actions concurrency pool. Applied only to read-only check workflows
+# (no publish/mutation), so cancelling a superseded run is always safe.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: read
 
