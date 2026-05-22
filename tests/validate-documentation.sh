@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# SPDX-License-Identifier: PMPL-1.0-or-later
+# SPDX-License-Identifier: MPL-2.0
 # validate-documentation.sh - Validate documentation consistency
 
 set -euo pipefail
@@ -25,7 +25,7 @@ fi
 # Test 3: SPDX headers
 echo "✓ Checking SPDX headers..."
 for file in README.adoc ROADMAP.adoc CHANGELOG.adoc; do
-    if [ -f "$file" ] && ! grep -q "SPDX-License-Identifier: PMPL-1.0-or-later" "$file"; then
+    if [ -f "$file" ] && ! grep -q "SPDX-License-Identifier: MPL-2.0" "$file"; then
         echo "  ✗ Missing SPDX header in $file"
         ((ERRORS++))
     fi

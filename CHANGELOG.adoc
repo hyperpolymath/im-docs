@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: PMPL-1.0-or-later
+// SPDX-License-Identifier: MPL-2.0
 = Changelog
 
 All notable changes to the Wayfinder project will be documented in this file.
@@ -70,11 +70,11 @@ We maintain this changelog with the same values as the project:
 ==== RSR Compliance Improvements
 - **Complete `.machine_readable/` structure**: All 6 SCM files (STATE, META, ECOSYSTEM, AGENTIC, NEUROSYM, PLAYBOOK)
 - **Full workflow suite**: 17 workflows (added instant-sync, npm-bun-blocker, ts-blocker, jekyll)
-- **License corrections**: Updated all SPDX headers to PMPL-1.0-or-later
+- **License corrections**: Updated all SPDX headers to MPL-2.0
 - **Duplicate cleanup**: Removed .md duplicates (kept .adoc), removed capitalized Justfile
 
 ==== Documentation Updates
-- **CITATIONS.adoc**: Corrected author and license (Jonathan D.A. Jewell, PMPL-1.0-or-later)
+- **CITATIONS.adoc**: Corrected author and license (Jonathan D.A. Jewell, MPL-2.0)
 - **ROADMAP.adoc**: Updated with actual Wayfinder milestones and 4-week plan
 - **STATE.scm**: Project status updated (15% → 30% completion)
 

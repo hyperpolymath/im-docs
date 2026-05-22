@@ -10,7 +10,7 @@
   title = {Wayfinder: Epistemic Infrastructure for Journalism},
   year = {2025},
   url = {https://github.com/hyperpolymath/im-docs},
-  license = {PMPL-1.0-or-later}
+  license = {MPL-2.0}
 }
 ----
 
