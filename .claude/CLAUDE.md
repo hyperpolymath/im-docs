@@ -1,3 +1,7 @@
+<!--
+SPDX-License-Identifier: MPL-2.0
+Copyright (c) Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
+-->
 # CLAUDE.md - AI Assistant Instructions
 
 ## Language Policy (Hyperpolymath Standard)
@@ -30,7 +34,7 @@
 | Bun | Deno |
 | pnpm/yarn | Deno |
 | Go | Rust |
-| Python | Julia/Rust/ReScript |
+| Python | Julia/Rust/AffineScript |
 | Java/Kotlin | Rust/Tauri/Dioxus |
 | Swift | Tauri/Dioxus |
 | React Native | Tauri/Dioxus |
