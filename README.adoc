@@ -1,7 +1,10 @@
-= Wayfinder: Epistemic Infrastructure for Journalism
-
-image:https://img.shields.io/badge/License-PMPL--1.0-blue.svg[License: PMPL-1.0,link="https://github.com/hyperpolymath/palimpsest-license"]
 // SPDX-License-Identifier: MPL-2.0
+// Copyright (c) Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
+= Wayfinder: Epistemic Infrastructure for Journalism
+image:https://img.shields.io/badge/OpenSSF-Best_Practices-green?logo=openssourcesecurity[OpenSSF Best Practices,link="https://www.bestpractices.dev/en/projects/new?repo_url=https://github.com/hyperpolymath/im-docs"]
+
+
+image:https://img.shields.io/badge/License-MPL_2.0-blue.svg[License: MPL-2.0,link="https://opensource.org/licenses/MPL-2.0"]
 // SPDX-FileCopyrightText: 2025 Jonathan D.A. Jewell
 
 *Status*: Conceptual Design → Proof of Concept Development
@@ -142,11 +145,9 @@ Designed considering biological attention limits, psychological identity protect
 
 == License
 
-This project is dual-licensed:
-- Palimpsest-MPL-1.0 License (for maximum compatibility and adoption)
-- Palimpsest License v0.8 (for values alignment and ethical use)
+This project is licensed under the Mozilla Public License, v. 2.0. See the `LICENSE` file for details.
 
-See [LICENSE.txt](./LICENSE.txt) for full details.
+SPDX-License-Identifier: MPL-2.0
 
 == Acknowledgments
 
