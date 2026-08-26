@@ -12,7 +12,7 @@ ERRORS=0
 echo "✓ Checking PROMPT framework (6 dimensions)..."
 PROMPT_DIMS=("Provenance" "Relevance" "Objectivity" "Methods" "Perspective" "Timeliness")
 for dim in "${PROMPT_DIMS[@]}"; do
-    if ! grep -r "$dim" README.adoc claude.adoc >/dev/null 2>&1; then
+    if ! grep -qi "$dim" README.adoc claude.adoc; then
         echo "  ✗ Missing PROMPT dimension: $dim"
         ((ERRORS++))
     fi
