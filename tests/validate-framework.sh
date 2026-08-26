@@ -12,7 +12,7 @@ ERRORS=0
 echo "✓ Checking PROMPT framework (6 dimensions)..."
 PROMPT_DIMS=("Provenance" "Relevance" "Objectivity" "Methods" "Perspective" "Timeliness")
 for dim in "${PROMPT_DIMS[@]}"; do
-    if ! grep -r "$dim" README.adoc claude.md >/dev/null 2>&1; then
+    if ! grep -qi "$dim" README.adoc claude.adoc; then
         echo "  ✗ Missing PROMPT dimension: $dim"
         ((ERRORS++))
     fi
@@ -22,7 +22,7 @@ done
 echo "✓ Checking four-layer knowledge pipeline..."
 LAYERS=("Data Layer" "Knowledge Layer" "Intelligence Layer" "Wisdom Layer")
 for layer in "${LAYERS[@]}"; do
-    if ! grep -r "$layer" README.adoc claude.md >/dev/null 2>&1; then
+    if ! grep -qi "$layer" README.adoc claude.adoc; then
         echo "  ✗ Missing knowledge layer: $layer"
         ((ERRORS++))
     fi
@@ -37,7 +37,7 @@ fi
 
 # Test 4: Boundary objects theory reference
 echo "✓ Checking boundary objects theory..."
-if ! grep -i "boundary object" README.adoc claude.md >/dev/null 2>&1; then
+if ! grep -i "boundary object" README.adoc claude.adoc >/dev/null 2>&1; then
     echo "  ✗ Missing boundary objects theory"
     ((ERRORS++))
 fi
@@ -46,7 +46,7 @@ fi
 echo "✓ Checking cognitive science integration..."
 COGNITIVE_CONCEPTS=("cognitive load" "progressive disclosure" "motivated reasoning")
 for concept in "${COGNITIVE_CONCEPTS[@]}"; do
-    if ! grep -i "$concept" claude.md >/dev/null 2>&1; then
+    if ! grep -i "$concept" claude.adoc >/dev/null 2>&1; then
         echo "  ✗ Missing cognitive concept: $concept"
         ((ERRORS++))
     fi
