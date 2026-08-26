@@ -22,7 +22,7 @@ done
 echo "✓ Checking four-layer knowledge pipeline..."
 LAYERS=("Data Layer" "Knowledge Layer" "Intelligence Layer" "Wisdom Layer")
 for layer in "${LAYERS[@]}"; do
-    if ! grep -r "$layer" README.adoc claude.adoc >/dev/null 2>&1; then
+    if ! grep -qi "$layer" README.adoc claude.adoc; then
         echo "  ✗ Missing knowledge layer: $layer"
         ((ERRORS++))
     fi
