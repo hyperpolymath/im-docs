@@ -417,5 +417,5 @@ documentation excellence.
 2026-05-23 or before Phase 2 development
 
 _See also: link:./README.md[README.md],
-link:./CONTRIBUTING.md[CONTRIBUTING.md],
+link:.github/CONTRIBUTING.md[CONTRIBUTING.md],
 link:./CHANGELOG.md[CHANGELOG.md]_

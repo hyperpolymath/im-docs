@@ -263,6 +263,6 @@ _This security policy embodies our commitment to transparency, privacy
 protection, and epistemic justice. It will evolve based on experience
 and community feedback._
 
-_See also: link:./CONTRIBUTING.md[CONTRIBUTING.md],
+_See also: link:.github/CONTRIBUTING.md[CONTRIBUTING.md],
 link:./CODE_OF_CONDUCT.md[CODE_OF_CONDUCT.md],
 link:./MAINTAINERS.md[MAINTAINERS.md]_

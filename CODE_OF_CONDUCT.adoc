@@ -247,5 +247,5 @@ Thank you for helping us create this space.
 
 '''''
 
-_See also: link:./CONTRIBUTING.md[CONTRIBUTING.md],
+_See also: link:.github/CONTRIBUTING.md[CONTRIBUTING.md],
 link:./SECURITY.md[SECURITY.md], link:./MAINTAINERS.md[MAINTAINERS.md]_
