@@ -33,7 +33,7 @@ done
 
 # Test 4: Required documentation files
 echo "✓ Checking required documentation files..."
-REQUIRED_DOCS=("README.adoc" "CHANGELOG.adoc" "ROADMAP.adoc" "CONTRIBUTING.adoc"
+REQUIRED_DOCS=("README.adoc" "CHANGELOG.adoc" "ROADMAP.adoc" "../.github/CONTRIBUTING.md"
                "CODE_OF_CONDUCT.md" "SECURITY.md" "LICENSE")
 for doc in "${REQUIRED_DOCS[@]}"; do
     if [ ! -f "$doc" ]; then
