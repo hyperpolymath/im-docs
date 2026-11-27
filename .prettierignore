@@ -1,0 +1,4 @@
+# package.json is pretty-printed so licence checks can read it, and pnpm-lock.yaml is tool-generated.
+# Prettier must not reformat them.
+package.json
+pnpm-lock.yaml
